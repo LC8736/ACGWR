@@ -1,6 +1,6 @@
-##### ACGWR: Adaptive Coefficient Geographically Weighted Regression
+##### ACGWR: Additive Coefficient Geographically Weighted Regression
 
-This repository contains the implementation of ACGWR (Adaptive Coefficient Geographically Weighted Regression) and comparative analysis with other spatial regression models.
+This repository contains the implementation of ACGWR (Additive Coefficient Geographically Weighted Regression) and comparative analysis with other spatial regression models.
 
 ##### Project Structure
 
@@ -70,4 +70,5 @@ src/
 2. The complete process may take several hours to complete depending on hardware.
 3. All codes are thoroughly commented to explain each step of the analysis.
 4. Ensure all data files are in the correct location (src/data/georgia/) before running analyses.
+
 
